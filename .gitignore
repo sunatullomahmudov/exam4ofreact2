@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Local project instructions
+/PROJECT_RULES_NEW_STYLE.md
+/AGENTS.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

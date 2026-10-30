@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="99" height="119" viewBox="0 0 99 119" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="basket">
+<path id="Mask" d="M0 18H80V98C80 100.209 78.2091 102 76 102H4C1.79086 102 0 100.209 0 98V18Z" fill-rule="evenodd" clip-rule="evenodd" fill="#D7DBEC"/>
+<path id="Rectangle" d="M44 0C50.6274 0 56 5.37258 56 12V18C56 21.3137 53.3137 24 50 24H30C26.6863 24 24 21.3137 24 18V12C24 5.37258 29.3726 0 36 0H44ZM44 6H36C32.7616 6 30.1224 8.56557 30.0041 11.7751L30 12V18H50V12C50 8.7616 47.4344 6.12243 44.2249 6.00414L44 6Z" fill-rule="evenodd" clip-rule="evenodd" fill="#131523"/>
+<path id="Rectangle_2" d="M0 18H74.5H80V38H0V18Z" fill-rule="evenodd" clip-rule="evenodd" fill="#131523"/>
+<path id="Path" d="M50 32C50 28.7616 47.4344 26.1224 44.2249 26.0041L44 26H36C32.7616 26 30.1224 28.5656 30.0041 31.7751L30 32V38H24V32C24 25.3726 29.3726 20 36 20H44C50.6274 20 56 25.3726 56 32V38H50V32Z" fill-rule="evenodd" clip-rule="evenodd" fill="#D7DBEC"/>
+<circle id="Oval" cx="73" cy="93" r="26" fill="#3A4788"/>
+<path id="Path_2" d="M82.1127 85.5594L84.8873 88.4406L69.9736 102.802L62.5858 95.4142L65.4142 92.5858L70.026 97.197L82.1127 85.5594Z" fill-rule="evenodd" clip-rule="evenodd" fill="white"/>
+</g>
+</svg>
